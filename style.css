@@ -119,6 +119,22 @@ section {
     color: #666;
 }
 
+#resources {
+    padding: 60px 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    background-color: #0056b3;
+    border: none;
+}
 
 .hero-content h1 {
     font-size: 2rem;
