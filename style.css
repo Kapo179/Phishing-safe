@@ -114,6 +114,11 @@ section {
     margin-bottom: 20px;
 }
 
+.card p {
+    font-size: 1rem;
+    color: #666;
+}
+
 
 .hero-content h1 {
     font-size: 2rem;
@@ -143,6 +148,9 @@ p {
 /* Responsive Design */
 @media (max-width: 768px) {
         /* Stack Navigation Links */
+        .card-container {
+            grid-template-columns: 1fr 1fr 1fr;
+        }
         nav ul {
             flex-direction: column;
         }
