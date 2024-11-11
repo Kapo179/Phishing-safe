@@ -1,7 +1,7 @@
 /* Hero Section  */
 #home {
     text-align: center;
-    padding: 20px;
+    padding: 40px 20px;
     background-color: #f0f0f0;
 }
 
@@ -9,4 +9,14 @@
 section {
     padding: 20px;
     text-align: center;
+}
+
+.hero {
+    font-size: 2rem;
+    color: #333;
+}
+
+#Self-assess, #contact {
+    background-color: #e0e0e0;
+    margin-top: 20px;
 }
