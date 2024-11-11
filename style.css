@@ -118,7 +118,8 @@ p {
         p {
             font-size: 0.9rem;
         }
-    
+        section {
+            padding: 30px 10px;
 }
 
 
