@@ -54,8 +54,22 @@ header {
     text-align: center;
     padding: 80px 20px 40px;
     background-color: #f0f0f0;
-    opacity: 0;
-    animation: fadeIn 1.2s forwards; 
+    position: relative;
+    overflow: hidden; 
+}
+
+/* Video Container */
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto 0;
+}
+
+.video-container video {
+    width: 100%;
+    height: auto;
+    border-radius: 10px; 
 }
 
 /* Simple Section Styling */
