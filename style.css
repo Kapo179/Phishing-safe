@@ -84,6 +84,18 @@ section {
     animation: fadeIn 1.2s forwards;
 }
 
+/* Info Cards Styling */
+#info-cards {
+    background-color: #f9f9f9;
+}
+
+#info-cards h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+
 .hero-content h1 {
     font-size: 2rem;
     color: #333;
