@@ -16,6 +16,8 @@ body {
     width: 100%;
     background-color: #333;
     padding: 10px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
 }
 
 nav ul {
@@ -49,7 +51,7 @@ header {
 /* Hero Section  */
 #home {
     text-align: center;
-    padding: 40px 20px;
+    padding: 80px 20px 40px;
     background-color: #f0f0f0;
 }
 
@@ -57,6 +59,8 @@ header {
 section {
     padding: 20px;
     text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .hero-content h1 {
