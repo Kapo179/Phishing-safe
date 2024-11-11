@@ -34,6 +34,11 @@ nav ul li a {
     font-weight: bold;
 }
 
+nav ul li a:hover {
+    background-color: #555; 
+    border-radius: 5px;
+}
+
 
 header {
     background-color: #202020;
