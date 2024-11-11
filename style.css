@@ -32,12 +32,12 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #ffffff;
+    color: #333;
     font-weight: bold;
 }
 
 nav ul li a:hover {
-    background-color: #555; 
+    background-color: #ffffff; 
     border-radius: 5px;
 }
 
@@ -79,4 +79,14 @@ section {
 #self-assess, #resources {
     background-color: #e0e0e0;
     margin-top: 20px;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+p {
+    font-size: 1rem;
+    color: #555;
 }
