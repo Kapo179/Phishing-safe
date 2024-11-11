@@ -8,6 +8,14 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+
+
 /* Navigation Bar */
 header {
     background-color: #333;
