@@ -8,6 +8,12 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+/* Navigation Bar */
+header {
+    background-color: #333;
+    padding: 10px 0;
+}
+
 /* Hero Section  */
 #home {
     text-align: center;
