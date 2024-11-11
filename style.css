@@ -14,7 +14,9 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
+    color: white;
     background-color: #333;
+    padding: 10px 0;
 }
 
 nav ul {
@@ -33,14 +35,6 @@ nav ul li a {
     font-weight: bold;
 }
 
-
-
-/* Navigation Bar */
-header {
-    background-color: #202020;
-    color: white;
-    padding: 10px 0;
-}
 
 /* Hero Section  */
 #home {
