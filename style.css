@@ -163,7 +163,7 @@ section {
 
 .btn-test-yourself {
     display: display-outside;
-    background-color: #f9f9f9;
+    background-color: #495bff;
     border-radius: 5px;
     text-decoration: none;
     transition: background-color 0.3s ease;
@@ -219,24 +219,7 @@ p {
 
 @media (max-width: 768px) {
         /* Stack Navigation Links */
-        .menu-toggle {
-            display: block;
-        }
-    
-        .nav-links {
-            display: none;
-            flex-direction: column;
-            gap: 10px;
-            position: absolute;
-            top: 60px;
-            right: 20px;
-            background-color: #e0e0e0;
-            width: 100%;
-            padding: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            border-radius: 5px;
-        }
-    
+
         .nav-links.active {
             display: flex;
         }
