@@ -223,6 +223,14 @@ p {
 
 }
 
+    .menu-toggle {
+        display: block;
+    }
+
+    .nav-links.active {
+        display: flex;
+    }
+
 }
 
 
