@@ -168,6 +168,7 @@ p {
 }
 
 /* Responsive Design */
+
 @media (max-width: 768px) {
         /* Stack Navigation Links */
         .card-container {
@@ -201,6 +202,25 @@ p {
 }
 
 }
+
+
+@media (max-width: 576px) {
+    /* Small Mobile Adjustments */
+    .hero-content h1 {
+        font-size: 1.4rem;
+    }
+    .hero-content p {
+        font-size: 0.9rem;
+    }
+    section {
+        padding: 20px 10px;
+    }
+    .card h3 {
+        font-size: 1.2rem;
+    }
+    .card p {
+        font-size: 0.9rem;
+    }
 
 
 /* Animations */
